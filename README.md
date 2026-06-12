@@ -25,10 +25,3 @@ Install dependencies:
 pip install opencv-python mediapipe pyautogui numpy pycaw screen-brightness-control
 
 Run : python Gesture_Controller.py
-
-How it Works
-Webcam detects hand landmarks → gestures are classified → mouse actions are performed automatically.
-
-
-Author
-Jennifer
